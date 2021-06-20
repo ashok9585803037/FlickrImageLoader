@@ -2,13 +2,11 @@
 
 # Getting Started
 
-Load iamges form flickr api 
+Load Images from flickr api 
 
-
-
-## iOS 
-<img src="https://github.com/dineshnagarajandev/flutter-mobile-web-component/blob/main/readmeneeds/FeedbackForm-iOS.gif" width="200">
+## video
+<img src="https://github.com/ashok9585803037/FlickrImageLoader/blob/main/2021_06_21_01_34_00.mp4 width="200">
 
 
 ## Android
-  [INSTALL APK FROM HERE](https://github.com/dineshnagarajandev/flutter-mobile-web-component/blob/main/readmeneeds/app-release.apk)
+  [INSTALL APK FROM HERE](https://github.com/ashok9585803037/FlickrImageLoader/blob/main/apkfile/xome_flickr.apk)
