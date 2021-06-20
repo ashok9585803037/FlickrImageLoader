@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FlickrImageLoaders.iml" filepath="$PROJECT_DIR$/.idea/FlickrImageLoaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlickrLoader.iml" filepath="$PROJECT_DIR$/.idea/modules/FlickrLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FlickrLoader.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FlickrLoader.app.iml" />
     </modules>
   </component>
 </project>
