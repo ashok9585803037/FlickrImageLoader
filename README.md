@@ -4,8 +4,8 @@
 
 Load Images from flickr api 
 
-## video
-<img src="https://github.com/ashok9585803037/FlickrImageLoader/blob/main/2021_06_21_01_34_00.mp4" width="200">
+## Screen Shot
+<img src="https://github.com/ashok9585803037/FlickrImageLoader/blob/main/Screenshot_2021-06-21-02-20-21-425_com.xome.flickrloader.jpg" width="200">
 
 
 ## Android
